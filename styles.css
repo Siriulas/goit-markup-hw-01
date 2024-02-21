@@ -1,0 +1,35 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+header {
+  display: flex;
+  padding: 20px 40px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo-name {
+  color: blue;
+}
+nav {
+  display: flex;
+}
+.nav-list {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.contacts {
+  display: flex;
+  align-items: center;
+}
